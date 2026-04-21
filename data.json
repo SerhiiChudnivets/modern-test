@@ -44,12 +44,12 @@
   "gpt_prompt": null,
   "subdomains": null,
   "redirect_site": null,
-  "main_background": "#6e7a3f",
-  "secondary_background": "#773535",
-  "button_background": "#5a85aa",
-  "button_text": "#c5c9cd",
-  "text_color": "#b46161",
-  "color_highlight_text": "#46ada7",
+  "main_background": "#535d8b",
+  "secondary_background": "#cdcdcf",
+  "button_background": "#6ea3d2",
+  "button_text": "#cad8e7",
+  "text_color": "#ffffff",
+  "color_highlight_text": "#408f8b",
   "faq_title": "faq",
   "login_text": "loginnn",
   "register_text": "reg222",
@@ -266,8 +266,8 @@
       "submenu": []
     }
   ],
-  "_generated_at": "2026-04-21T19:43:07.674Z",
+  "_generated_at": "2026-04-21T19:45:52.900Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-21T19:43:08.190Z",
-  "_deploy_trigger": "shbdlq"
+  "_last_deploy": "2026-04-21T19:45:53.416Z",
+  "_deploy_trigger": "yjkr1"
 }
