@@ -234,7 +234,22 @@
   ],
   "redirects": [],
   "cloudflare_account": null,
-  "header_menu": [],
+  "header_menu": [
+    {
+      "id": 1299,
+      "label": "play",
+      "open_in_new_tab": false,
+      "link": "#",
+      "submenu": []
+    },
+    {
+      "id": 1300,
+      "label": "login",
+      "open_in_new_tab": false,
+      "link": "#",
+      "submenu": []
+    }
+  ],
   "footer_menu": [
     {
       "id": 1295,
@@ -251,8 +266,8 @@
       "submenu": []
     }
   ],
-  "_generated_at": "2026-04-21T09:26:35.768Z",
+  "_generated_at": "2026-04-21T19:43:07.674Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-21T09:26:36.298Z",
-  "_deploy_trigger": "8lxqd"
+  "_last_deploy": "2026-04-21T19:43:08.190Z",
+  "_deploy_trigger": "shbdlq"
 }
